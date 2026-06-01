@@ -10,13 +10,11 @@
 
 ## 👨‍💻 Who I Am
 
-Software engineer with 3+ years shipping production systems at **Twilio** and **PwC**.
+I build things that have to work — messaging systems at Twilio handling hundreds of thousands of daily events, and healthcare data platforms at PwC that hospital teams actually relied on.
 
-At Twilio, I work on the core messaging infrastructure — the kind of systems where downtime isn't an option and scale is measured in hundreds of thousands of daily events.
+My sweet spot is the backend — Python, event-driven architecture, cloud infrastructure — but I'm comfortable across the stack. I like problems that have real consequences if you get them wrong.
 
-At PwC, I built healthcare analytics platforms that hospitals actually used — clinical data pipelines, secure APIs, and cloud deployments on AWS and Azure.
-
-I care about clean architecture, systems that don't break under pressure, and code that the next engineer can actually understand.
+Currently expanding into AI/LLM systems after completing NVIDIA's Generative AI certification.
 
 ---
 
@@ -34,6 +32,14 @@ Real-time log monitoring pipeline that ingests application logs, detects anomali
 |---|---|---|
 | **Twilio** | Software Engineer | High-volume SMS/voice messaging infrastructure on AWS |
 | **PwC** | Software Engineer | Healthcare analytics platforms for hospital clients on Azure |
+
+---
+
+## 🏆 Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| Generative AI with LLMs | NVIDIA | 2026 |
 
 ---
 
